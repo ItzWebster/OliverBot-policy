@@ -1,4 +1,4 @@
-# Ryzen TOS/PRIVACY POLICY 
+# Virsa TOS/PRIVACY POLICY 
 
 
 PRIVACY POLICY 
@@ -19,6 +19,6 @@ Who do we share this data with
 We never share your data with anyone except for [MongoDB Inc](https://mongodb.com) whom is a DataBase Company and all the data for our Bot is stored on the MongoDB Servers and According to MongoDB Inc. the data is only accessable by us.
 
 
-Ryzen ToS 
+Virsa ToS 
 
 technology Just follow Discord Term and Service and their guidelines if you do that you are chillest person
