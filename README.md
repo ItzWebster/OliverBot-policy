@@ -1,7 +1,7 @@
-# Virsa TOS/PRIVACY POLICY 
+# OliverBot TOS/PRIVACY POLICY 
 
 
-PRIVACY POLICY 
+OliverBot PRIVACY POLICY 
 
 What data do we store?
 We do not collect any personal information relating your account like Passwords or any other Credentials. The data we collect includes the User IDs, Server IDs, Channel IDs and Some Role IDs. The bot never requests for any personal data of the users and any act that breaks the Tos of Discord is discouraged by us!
@@ -19,6 +19,6 @@ Who do we share this data with
 We never share your data with anyone except for [MongoDB Inc](https://mongodb.com) whom is a DataBase Company and all the data for our Bot is stored on the MongoDB Servers and According to MongoDB Inc. the data is only accessable by us.
 
 
-Virsa ToS 
+OliverBot ToS 
 
 technology Just follow Discord Term and Service and their guidelines if you do that you are chillest person
